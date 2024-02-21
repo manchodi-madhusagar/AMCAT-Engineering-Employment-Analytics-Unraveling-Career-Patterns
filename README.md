@@ -42,13 +42,6 @@ The primary objective of this project is to perform exploratory data analysis (E
 
    ```
    pip install -r requirements.txt
-   Python 3
-   Pandas
-   Matplotlib
-   NumPy
-   Seaborn
-   SciPy
-
    ```
 
 3. Navigate to the notebooks directory and open the Jupyter notebooks to explore the data and run the analysis.
@@ -59,7 +52,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Author
 
-[Your Name]
+MANCHODI MADHUSAGAR
 
 ## Acknowledgments
 

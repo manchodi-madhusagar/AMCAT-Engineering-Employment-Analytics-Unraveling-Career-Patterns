@@ -24,7 +24,7 @@ The primary objective of this project is to perform exploratory data analysis (E
 
 ## Repository Structure
 
-- **data/**: Contains the dataset file (AMEO.csv).
+- **data/**: Contains the dataset file (data.xlsx - Sheet1).
 - **notebooks/**: Jupyter notebooks for data analysis and visualization.
 - **README.md**: Overview of the project, dataset description, and objectives.
 - **LICENSE**: License information for the repository.

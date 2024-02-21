@@ -42,6 +42,7 @@ The primary objective of this project is to perform exploratory data analysis (E
 
    ```
    pip install -r requirements.txt
+   
    ```
 
 3. Navigate to the notebooks directory and open the Jupyter notebooks to explore the data and run the analysis.

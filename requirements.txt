@@ -1,0 +1,7 @@
+--->required Python libraries
+
+ Pandas
+ Matplotlib
+ NumPy
+ Seaborn
+ SciPy

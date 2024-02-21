@@ -27,7 +27,6 @@ The primary objective of this project is to perform exploratory data analysis (E
 - **data/**: Contains the dataset file (data.xlsx - Sheet1.csv).
 - **notebooks/**: Jupyter notebooks for data analysis and visualization.
 - **README.md**: Overview of the project, dataset description, and objectives.
-- **LICENSE**: License information for the repository.
 - **requirements.txt**: Required Python libraries for running the code.
 
 ## How to Use
